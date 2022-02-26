@@ -7,6 +7,10 @@
 <a href="https://www.youtube.com/channel/UCEbSfJu-9qZq7Y1UF1kbsLA" target=”_blank” rel=”noreferrer”>
   <img align="left" src="https://img.shields.io/youtube/channel/subscribers/UCEbSfJu-9qZq7Y1UF1kbsLA?label=YouTube&style=flat-square" alt="YouTube Main">
 </a>
+
+<a href="https://twitter.com/XCraftTM_DE" target=”_blank” rel=”noreferrer”>
+  <img align="left" src="https://img.shields.io/twitter/follow/XCraftTM_DE?label=Follow%20on%20Twitter&style=flat-square" alt="Twitter">
+</a>
 <br>
 
 <h2>⚡️ About me</h2>
