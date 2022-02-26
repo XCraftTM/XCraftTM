@@ -10,13 +10,12 @@
 <br>
 
 <h2>⚡️ About me</h2>
-<a href="#%EF%B8%8F-about-me">
 <ul>
 <li>🔭 I'm Currently not working on any Projects...</li>
 <li>🧐 Learning about <strong>Spigot/Bungee API in Java for Minecraft 1.8-1.18</strong>.</li>
 <li>👨‍💻 My projects are available on <a href="https://github.com/XCraftTM?tab=repositories">Github</a>.</li>
 </ul>
-
+<a href="about-me">
 <img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/?username=XCraftTM&count_private=true&theme=nord&show_icons=true&include_all_commits=true" alt="My Github Stats"></a>
 <img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCraftTM&langs_count=5&layout=compact&theme=nord" alt="My Coding Language Stats"></a>
 
