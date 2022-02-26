@@ -17,6 +17,7 @@
 </ul>
 <a href="#%EF%B8%8F-about-me">
 <img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/?username=XCraftTM&count_private=true&theme=nord&show_icons=true&include_all_commits=true" alt="My Github Stats"></a>
+<a href="#%EF%B8%8F-about-me">
 <img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCraftTM&langs_count=5&layout=compact&theme=nord" alt="My Coding Language Stats"></a>
 <br><br><br><br><br><br><br>
 <h2>📋 Recently Worked on</h2>
