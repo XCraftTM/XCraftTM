@@ -27,6 +27,7 @@
 <a href="https://github.com/XCraftTM/BorderXP">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XCraftTM&repo=BorderXP&theme=nord&show_owner=false" alt="BorderXP">
 </a>
+<br><br><br><br><br><br><br>
 
 <h2>🤣 Random Meme for you</h2>
 <p align="center">
