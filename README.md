@@ -30,7 +30,7 @@
 <br><br><br><br><br><br><br>
 
 <h2>🤣 Random Meme for you</h2>
-<p align="center">
+<p align="left">
 <a href="#-random-joke-and-meme-for-you">
 <img width=500 src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
   </a></p>
