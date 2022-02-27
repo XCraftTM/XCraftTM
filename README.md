@@ -31,6 +31,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XCraftTM&repo=BorderXP&theme=nord&show_owner=false" alt="BorderXP">
 </a>
 <br><br><br><br><br><br>
+### Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <h2>🤣 Random Meme for you</h2>
 <p align="left">
