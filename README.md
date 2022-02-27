@@ -32,12 +32,6 @@
 </a>
 <br><br><br><br><br><br>
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 <h2>🤣 Random Meme for you</h2>
 <p align="left">
 <a href="#-random-joke-and-meme-for-you">
