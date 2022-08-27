@@ -14,7 +14,7 @@
 <h2>⚡️ About me</h2>
 <ul>
 <li>🔭 I'm Currently not working on any Projects...</li>
-<li>🧐 Learning about <strong>Spigot/Bungee API in Java for Minecraft 1.8-1.18</strong>.</li>
+<li>🧐 Learning about <strong>Spigot/Bungee API in Java for Minecraft 1.8-1.19+</strong>.</li>
 <li>👨‍💻 My projects are available on <a href="https://github.com/XCraftTM?tab=repositories">Github</a>.</li>
 </ul>
 <a href="#%EF%B8%8F-about-me">
