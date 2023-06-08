@@ -27,13 +27,7 @@
 
 ### These repos
 
-<a href="https://github.com/XCraftTM/BorderXP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XCraftTM&repo=BorderXP&theme=nord&show_owner=false" alt="BorderXP">
+<a href="https://github.com/XCraftTM/DBBBlocks">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XCraftTM&repo=DBBBlocks&theme=nord&show_owner=false" alt="DBBBlocks">
 </a>
 <br><br><br><br><br><br>
-
-<h2>🤣 Random Meme for you</h2>
-<p align="left">
-<a href="#-random-joke-and-meme-for-you">
-<img width=500 src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-  </a></p>
