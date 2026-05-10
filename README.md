@@ -1,30 +1,31 @@
-<h1> Hi I'm <a href="https://xcrafttm.dev" target=”_blank” rel=”noreferrer”>XCraftTM</a> 👋</h2>
+<h1 align="center">Hey, I'm <a href="https://xcrafttm.dev">XCraftTM</a> 👋</h1>
 
-<a href="https://twitch.tv/XCraftTM" target=”_blank” rel=”noreferrer”>
-<img align="left" src="https://img.shields.io/twitch/status/XCraftTM?style=flat-square" alt="Twitch">
-</a>
-<a href="https://www.youtube.com/@XCraftTM_DE" target=”_blank” rel=”noreferrer”>
-<img align="left" src="https://img.shields.io/youtube/channel/subscribers/UCEbSfJu-9qZq7Y1UF1kbsLA?label=YouTube&style=flat-square" alt="YouTube Main">
-</a>
-<br>
+<p align="center">
+  <a href="https://twitch.tv/XCraftTM"><img src="https://img.shields.io/twitch/status/XCraftTM?style=for-the-badge&logo=twitch&label=Twitch" alt="Twitch status" /></a>
+  <a href="https://www.youtube.com/@XCraftTM_DE"><img src="https://img.shields.io/youtube/channel/subscribers/UCEbSfJu-9qZq7Y1UF1kbsLA?style=for-the-badge&logo=youtube&label=YouTube" alt="YouTube subscribers" /></a>
+</p>
 
-<h2>⚡️ About me</h2>
-<ul>
-<li>🔭 I'm Currently not working on any Projects...</li>
-<li>🧐 Learning about <strong>Spigot 1.21.x & SimpleCloud v2 API</strong>.</li>
-<li>👨‍💻 My projects are available on <a href="https://github.com/XCraftTM?tab=repositories">Github</a>.</li>
-</ul>
-<a href="#%EF%B8%8F-about-me">
-<img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/?username=XCraftTM&theme=nord&show_icons=true&include_all_commits=true" alt="My Github Stats"></a>
-<a href="#%EF%B8%8F-about-me">
-<img align="left" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCraftTM&langs_count=5&layout=compact&theme=nord" alt="My Coding Language Stats"></a>
-<br><br><br><br><br><br><br><br>
-<h2>📋 Recently Worked on</h2>
+## ⚡ About me
 
+- 🔭 Currently not actively working on a public project.
+- 🧠 Learning **Spigot 1.21.x** and the **SimpleCloud v2 API**.
+- 👨‍💻 Check out my work on [GitHub repositories](https://github.com/XCraftTM?tab=repositories).
 
-### These repos
+## 📊 GitHub stats
 
-<a href="https://github.com/XCraftTM/DBBDocs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XCraftTM&repo=DBBDocs&theme=nord&show_owner=false" alt="DBBDocs">
-</a>
-<br><br><br><br><br><br>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XCraftTM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="XCraftTM GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=XCraftTM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="XCraftTM top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=XCraftTM&theme=tokyonight&hide_border=true" alt="XCraftTM contribution streak" />
+</p>
+
+## 📋 Recently worked on
+
+<p>
+  <a href="https://github.com/XCraftTM/DBBDocs">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=XCraftTM&repo=DBBDocs&theme=tokyonight&hide_border=true&show_owner=false" alt="DBBDocs repository" />
+  </a>
+</p>
