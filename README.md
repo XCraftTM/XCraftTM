@@ -1,31 +1,98 @@
-<h1 align="center">Hey, I'm <a href="https://xcrafttm.dev">XCraftTM</a> 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=XCraftTM&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Java%20%E2%80%A2%20Minecraft%20Plugins%20%26%20Mods&descAlignY=58&descSize=18" width="100%" alt="XCraftTM banner" />
 
 <p align="center">
-  <a href="https://twitch.tv/XCraftTM"><img src="https://img.shields.io/twitch/status/XCraftTM?style=for-the-badge&logo=twitch&label=Twitch" alt="Twitch status" /></a>
-  <a href="https://www.youtube.com/@XCraftTM_DE"><img src="https://img.shields.io/youtube/channel/subscribers/UCEbSfJu-9qZq7Y1UF1kbsLA?style=for-the-badge&logo=youtube&label=YouTube" alt="YouTube subscribers" /></a>
+  <a href="https://xcrafttm.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+XCraftTM+%F0%9F%91%8B;Learning+developer+from+Germany+%F0%9F%87%A9%F0%9F%87%AA;Building+Minecraft+plugins+%26+mods+%E2%9B%8F%EF%B8%8F" alt="Typing intro" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://xcrafttm.dev"><img src="https://img.shields.io/badge/Website-xcrafttm.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://twitch.tv/XCraftTM"><img src="https://img.shields.io/twitch/status/XCraftTM?style=for-the-badge&logo=twitch&logoColor=white&label=Twitch&color=9146FF" alt="Twitch status" /></a>
+  <a href="https://www.youtube.com/@XCraftTM_DE"><img src="https://img.shields.io/badge/YouTube-@XCraftTM__DE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://x.com/XCraftTM_DE"><img src="https://img.shields.io/badge/X-@XCraftTM__DE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+</p>
+
+---
 
 ## ⚡ About me
 
-- 🔭 Currently not actively working on a public project.
-- 🧠 Learning **Spigot 1.21.x** and the **SimpleCloud v2 API**.
-- 👨‍💻 Check out my work on [GitHub repositories](https://github.com/XCraftTM?tab=repositories).
+```java
+public class XCraftTM {
+    String location   = "Germany 🇩🇪";
+    String[] building = { "Paper & Velocity plugins", "Fabric mods" };
+    String[] learning = { "Spigot 1.21.x", "SimpleCloud v2 API" };
+    String funFact    = "Every project starts as 'just a small plugin'...";
+}
+```
+
+- 🔊 Currently hacking on **[OpenSoundboard](https://github.com/XCraftTM/OpenSoundboard)**, a soundboard mod for Simple Voice Chat
+- 🧠 Learning **Spigot 1.21.x** and the **SimpleCloud v2 API**
+- 📺 Sometimes streaming on **[Twitch](https://twitch.tv/XCraftTM)**
+
+## 🛠️ Tech I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,html,css,idea,git,github&theme=dark" alt="Tech stack" />
+</p>
+
+## 🧩 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/XCraftTM/OpenSoundboard">🔊 OpenSoundboard</a></h3>
+      A feature-rich soundboard mod for Simple Voice Chat (Fabric).<br/><br/>
+      <img src="https://img.shields.io/github/languages/top/XCraftTM/OpenSoundboard?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Language" />
+      <img src="https://img.shields.io/github/stars/XCraftTM/OpenSoundboard?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Stars" />
+      <img src="https://img.shields.io/github/last-commit/XCraftTM/OpenSoundboard?style=flat-square&color=9ece6a&labelColor=1a1b27" alt="Last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/XCraftTM/HUB">🏠 HUB</a></h3>
+      Customizable hub plugin for Velocity with automatic lobby selection and MiniMessage support.<br/><br/>
+      <img src="https://img.shields.io/github/languages/top/XCraftTM/HUB?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Language" />
+      <img src="https://img.shields.io/github/stars/XCraftTM/HUB?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Stars" />
+      <img src="https://img.shields.io/github/last-commit/XCraftTM/HUB?style=flat-square&color=9ece6a&labelColor=1a1b27" alt="Last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/XCraftTM/DBBDocs">📚 DBBDocs</a></h3>
+      Documentation for Discord Bot Builder on Steam.<br/><br/>
+      <img src="https://img.shields.io/github/languages/top/XCraftTM/DBBDocs?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Language" />
+      <img src="https://img.shields.io/github/stars/XCraftTM/DBBDocs?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Stars" />
+      <img src="https://img.shields.io/github/last-commit/XCraftTM/DBBDocs?style=flat-square&color=9ece6a&labelColor=1a1b27" alt="Last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/XCraftTM/BorderXP">🌍 BorderXP</a></h3>
+      A recode of BastiGHG's "Border = XP" challenge.<br/><br/>
+      <img src="https://img.shields.io/github/languages/top/XCraftTM/BorderXP?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Language" />
+      <img src="https://img.shields.io/github/stars/XCraftTM/BorderXP?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Stars" />
+      <img src="https://img.shields.io/github/last-commit/XCraftTM/BorderXP?style=flat-square&color=9ece6a&labelColor=1a1b27" alt="Last commit" />
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/XCraftTM?tab=repositories">➜ See all repositories</a></p>
 
 ## 📊 GitHub stats
 
+<!-- These cards are generated by .github/workflows/profile-cards.yml and committed to this repo -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XCraftTM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="XCraftTM GitHub stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=XCraftTM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="XCraftTM top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XCraftTM&theme=tokyonight&hide_border=true" alt="XCraftTM contribution streak" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit languages" />
 </p>
 
-## 📋 Recently worked on
-
-<p>
-  <a href="https://github.com/XCraftTM/DBBDocs">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=XCraftTM&repo=DBBDocs&theme=tokyonight&hide_border=true&show_owner=false" alt="DBBDocs repository" />
-  </a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=XCraftTM&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XCraftTM&style=flat-square&color=7aa2f7&label=Profile+views" alt="Profile views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" alt="" />
