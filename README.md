@@ -19,15 +19,15 @@
 
 ```java
 public class XCraftTM {
-    String location   = "Germany 🇩🇪";
-    String[] building = { "Paper & Velocity plugins", "Fabric mods" };
-    String[] learning = { "Spigot 1.21.x", "SimpleCloud v2 API" };
-    String funFact    = "Every project starts as 'just a small plugin'...";
+    String location      = "Germany 🇩🇪";
+    String[] building    = { "Paper & Velocity plugins", "Fabric mods" };
+    String[] workingWith = { "Paper API", "CommandAPI" };
+    String funFact       = "Every project starts as 'just a small plugin'...";
 }
 ```
 
 - 🔊 Currently hacking on **[OpenSoundboard](https://github.com/XCraftTM/OpenSoundboard)**, a soundboard mod for Simple Voice Chat
-- 🧠 Learning **Spigot 1.21.x** and the **SimpleCloud v2 API**
+- 🧰 Working with the **[Paper API](https://papermc.io)** and **[CommandAPI](https://commandapi.jorel.dev)** to make professional-looking plugins
 - 📺 Sometimes streaming on **[Twitch](https://twitch.tv/XCraftTM)**
 
 ## 🛠️ Tech I use
