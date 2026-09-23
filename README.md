@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=XCraftTM&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Java%20%E2%80%A2%20Minecraft%20Plugins%20%26%20Mods&descAlignY=58&descSize=18" width="100%" alt="XCraftTM banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=XCraftTM&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Java%20%E2%80%A2%20Minecraft%20Plugins%20and%20Mods&descAlignY=58&descSize=18" width="100%" alt="XCraftTM banner" />
 
 <p align="center">
   <a href="https://xcrafttm.dev">
